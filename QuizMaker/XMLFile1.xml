@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <Item>
+    <Question></Question>
+    <Answer></Answer>
+  </Item>
+  <Item>(Question, foo?)(Answer, ber)</Item>
+  <Item>(Question, foo)(Answer, bar)</Item>
+  <Item>
+    <Question>foo?</Question>
+    <Answer>bar</Answer>
+  </Item>
+  <Item>
+    <Question>foo</Question>
+    <Answer>bar</Answer>
+  </Item>
+</Data>
